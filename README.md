@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I am Tushar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
